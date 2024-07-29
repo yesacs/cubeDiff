@@ -1,0 +1,420 @@
+Caravan Escort
+Doomed Traveler
+Elite Vanguard
+Gideon's Lawkeeper
+Icatian Javelineers
+Steppe Lynx
+Thraben Inspector
+Thraben Standard Bearer
+Daring Skyjek
+Kor Skyfisher
+Lone Missionary
+Mistral Charger
+Squall Drifter
+Stormfront Pegasus
+Syndic of Tithes
+Topan Freeblade
+Youthful Knight
+Attended Knight
+Ballynock Cohort
+Burrenton Bombardier
+Dauntless Cathar
+Dawnglare Invoker
+Glint-Sleeve Artisan
+Heliod's Pilgrim
+Kor Hookmaster
+Kor Sanctifiers
+Misthoof Kirin
+Shu Cavalry
+Skyhunter Skirmisher
+Coalition Honor Guard
+Guardian of the Guildpact
+Palace Sentinels
+Seraph of Dawn
+Custodi Squire
+Dawnfeather Eagle
+Totem-Guide Hartebeest
+Noble Templar
+Gods Willing
+Celestial Flare
+Raise the Alarm
+Shelter
+Blinding Beam
+Borrowed Grace
+Kor Chant
+Prismatic Strands
+Second Thoughts
+Sunlance
+Battle Screech
+Cenn's Enlistment
+Triplicate Spirits
+Bonds of Faith
+Journey to Nowhere
+Pacifism
+Temporal Isolation
+Oblivion Ring
+Recumbent Bliss
+Faith's Fetters
+Cloudfin Raptor
+Delver of Secrets
+Wingcrafter
+Elusive Spellfist
+Looter il-Kor
+Stormscape Familiar
+Thought Courier
+Thrummingbird
+Vaporkin
+Calcite Snapper
+Eldrazi Skyspawner
+Frost Lynx
+Man-o'-War
+Nimbus Naiad
+Pestermite
+Sea Gate Oracle
+Shaper Parasite
+Stitched Drake
+Stormbound Geist
+Tandem Lookout
+Archaeomancer
+Lotus Path Djinn
+Mist Raven
+Ninja of the Deep Hours
+Shimmering Glasskite
+Mulldrifter
+Prescient Chimera
+Benthic Giant
+Shoreline Ranger
+Errant Ephemeron
+Wretched Gryff
+Condescend
+Confound
+Counterspell
+Daze
+Impulse
+Into the Roil
+Mana Leak
+Memory Lapse
+Miscalculation
+Remove Soul
+Think Twice
+Capsize
+Exclude
+Repulse
+Rushing River
+Ray of Command
+Gush
+Ponder
+Preordain
+Serum Visions
+Compulsive Research
+Deep Analysis
+Foresee
+Treasure Cruise
+Flood
+Ice Over
+Narcolepsy
+Carnophage
+Disowned Ancestor
+Fume Spitter
+Typhoid Rats
+Vampire Lacerator
+Basilica Screecher
+Dauthi Horror
+Dauthi Slayer
+Ghoulcaller's Accomplice
+Hand of Silumgar
+Mardu Skullhunter
+Nightscape Familiar
+Shambling Ghoul
+Sinuous Vermin
+Skinthinner
+Undertaker
+Blind Zealot
+Chittering Rats
+Crypt Rats
+Dauthi Marauder
+Dead Reveler
+Liliana's Specter
+Phyrexian Rager
+Skittering Horror
+Bloodhunter Bat
+Faceless Butcher
+Falkenrath Noble
+Gravedigger
+Mortis Dogs
+Perilous Shadow
+Thorn of the Black Rose
+Vulturous Aven
+Gray Merchant of Asphodel
+Okiba-Gang Shinobi
+Predatory Nightstalker
+Warren Pilferers
+Twisted Abomination
+Gurmag Angler
+Disfigure
+Tragic Slip
+Death Denied
+Doom Blade
+Subtle Strike
+Terror
+Snuff Out
+Unearth
+Chainer's Edict
+Disturbed Burial
+Hymn to Tourach
+Night's Whisper
+Ashes to Ashes
+Crippling Fatigue
+Read the Bones
+Evincar's Justice
+Paralyze
+Stab Wound
+Mark of the Vampire
+Pestilence
+Furnace Scamp
+Jackal Familiar
+Kird Ape
+Aether Chaser
+Bloodcrazed Neonate
+Borderland Marauder
+Ember-Eye Wolf
+Generator Servant
+Kiln Fiend
+Mardu Scout
+Mogg War Marshal
+Plated Geopede
+Skirk Marauder
+Thriving Grubs
+Akroan Sergeant
+Blood Ogre
+Brazen Wolves
+Fervent Cathar
+Ghitu Slinger
+Hissing Iguanar
+Inner-Flame Acolyte
+Spikeshot Goblin
+Splatter Thug
+Valakut Predator
+Beetleback Chief
+Firefiend Elemental
+Goblin Freerunner
+Goblin Heelcutter
+Gorehorn Minotaurs
+Cinder Hellion
+Gathan Raiders
+Sprinting Warbrute
+Vildin-Pack Outcast
+Chartooth Cougar
+Burst Lightning
+Lightning Bolt
+Incinerate
+Magma Jet
+Searing Blaze
+Searing Spear
+Twin Bolt
+Brimstone Volley
+Staggershock
+Magma Burst
+Fireblast
+Chain Lightning
+Disintegrate
+Faithless Looting
+Fireball
+Firebolt
+Flame Slash
+Forked Bolt
+Reckless Charge
+Flame Rift
+Rolling Thunder
+Arc Lightning
+Pyrotechnics
+Madcap Skills
+Fyndhorn Elves
+Llanowar Elves
+Sedge Scorpion
+Wild Nacatl
+Young Wolf
+Ambush Viper
+Darkthicket Wolf
+Dawntreader Elk
+Deadly Recluse
+Kujar Seedsculptor
+Leafcrown Dryad
+Mire Boa
+Nest Invader
+River Boa
+Sakura-Tribe Elder
+Terrain Elemental
+Borderland Ranger
+Citanul Woodreaders
+Crocanura
+Grazing Gladehart
+Scion Summoner
+Simian Grunts
+Trusted Forcemage
+Yavimaya Elder
+Blastoderm
+Mold Shambler
+Nantuko Vigilante
+Peema Outrider
+Penumbra Spider
+Primal Huntbeast
+Wickerbough Elder
+Entourage of Trest
+Nessian Asp
+Tajuru Pathwarden
+Hooting Mandrills
+Vulpine Goliath
+Krosan Tusker
+Oakgnarl Warrior
+Walker of the Grove
+Vines of Vastwood
+Grapple with the Past
+Sprout Swarm
+Sylvan Might
+Elephant Ambush
+Prey Upon
+Slime Molding
+Edge of Autumn
+Epic Confrontation
+Rabid Bite
+Cultivate
+Kodama's Reach
+Wild Instincts
+Rancor
+Utopia Sprawl
+Vessel of Nascency
+Moldervine Cloak
+Snake Umbra
+Curse of Chains
+Deputy of Acquittals
+Feeling of Dread
+Momentary Blink
+Hussar Patrol
+Oona's Gatewarden
+Agony Warp
+Probe
+Recoil
+Dinrova Horror
+Rakdos Shred-Freak
+Spike Jester
+Terminate
+Blightning
+Strangling Soot
+Burning-Tree Emissary
+Ground Assault
+Zhur-Taa Druid
+Branching Bolt
+Zhur-Taa Swine
+Call of the Conclave
+Qasali Pridemage
+Travel Preparations
+Armadillo Cloak
+Centaur Safeguard
+Tithe Drinker
+Gift of Orzhova
+Kingpin's Pet
+Pillory of the Sleepless
+Blind Hunter
+Desperate Ravings
+Frostburn Weird
+Jilt
+Nivix Cyclops
+Izzet Chronarch
+Llanowar Dead
+Putrid Leech
+Consume Strength
+Rendclaw Trow
+Sluiceway Scorpion
+Wojek Halberdiers
+Hobgoblin Dragoon
+Rally the Peasants
+Viashino Firstblade
+War Flare
+Shambleshark
+Beetleform Mage
+Snakeform
+Temporal Spring
+Ethereal Ambush
+Bant Sojourners
+Viashino Slaughtermaster
+Naya Sojourners
+Ponyback Brigade
+Snowhorn Rider
+Abzan Guide
+Efreet Weaponmaster
+Abomination of Gudul
+Bonded Construct
+Eager Construct
+Perilous Myr
+Alloy Myr
+Cathodion
+Scuttlemutt
+Hedron Rover
+Warden of Geometries
+Kozilek's Channeler
+Skyreach Manta
+Kozilek's Pathfinder
+Will-Forged Golem
+Ruin Processor
+Eldrazi Devastator
+Adventuring Gear
+Bonesplitter
+Flayer Husk
+Leonin Scimitar
+Renegade Map
+Sylvok Lifestaff
+Viridian Longbow
+Armillary Sphere
+Mind Stone
+Prismatic Lens
+Sky Skiff
+Vulshok Morningstar
+Pristine Talisman
+Renegade Freighter
+Sickleslicer
+Strider Harness
+Tumble Magnet
+Opaline Bracers
+Serrated Arrows
+Azorius Chancery
+Tranquil Cove
+Dimir Aqueduct
+Dismal Backwater
+Bloodfell Caves
+Rakdos Carnarium
+Gruul Turf
+Rugged Highlands
+Blossoming Sands
+Selesnya Sanctuary
+Orzhov Basilica
+Scoured Barrens
+Izzet Boilerworks
+Swiftwater Cliffs
+Golgari Rot Farm
+Jungle Hollow
+Boros Garrison
+Wind-Scarred Crag
+Simic Growth Chamber
+Thornwood Falls
+Ash Barrens
+Bant Panorama
+Crumbling Vestige
+Desert
+Esper Panorama
+Evolving Wilds
+Grixis Panorama
+Halimar Depths
+Haunted Fengraf
+Holdout Settlement
+Jund Panorama
+Khalni Garden
+Mortuary Mire
+Naya Panorama
+Quicksand
+Sandstone Bridge
+Teetering Peaks
+Terramorphic Expanse
+Transguild Promenade
+Unknown Shores
+Warped Landscape
